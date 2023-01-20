@@ -9,7 +9,7 @@
         :class="signupAboutSize"
       >
         <div class="item">
-          <div v-if="siteDescription" class="footer__heading xs-mb2">About</div>
+          <div v-if="siteDescription" class="footer__heading xs-mb2">À PROPOS</div>
           <p v-if="siteDescription">{{siteDescription}}</p>
         </div>
       </div>
@@ -24,13 +24,22 @@
         :class="signupAboutSize"
       >
         <div class="item">
-          <div v-if="connectData" class="footer__heading xs-mb2">Connect</div>
+          <div v-if="connectData" class="footer__heading xs-mb2">ME JOINDRE</div>
           <ul v-if="connectData" class="list-unstyled">
             <li v-for="(c,i) in connectData" :key="i">
               <a :href="c.url">{{c.name}}</a>
             </li>
           </ul>
         </div>
+      </div>
+      <div
+        class="xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none"
+        :class="signupAboutSize"
+      >
+        <div class="item">
+          <div class="footer__heading xs-mb2"></div>
+        </div>
+      </div>
       </div>
     </div>
   </footer>
