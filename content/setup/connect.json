@@ -1,12 +1,3 @@
 {
-  "connectlinks": [
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/christineegroux/"
-    },
-    {
-      "name": "Github",
-      "url": "https://github.com/ChrstnGrx"
-    }
-  ]
+  "connectlinks": []
 }
