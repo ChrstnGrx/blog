@@ -10,4 +10,5 @@ category: Suisse 🫕
 ﻿*Dent de Vaulion, Vaud*
 
 ![](https://lh3.googleusercontent.com/pw/AMWts8DadCShXKc7xbhwbC6iR7GsFv0V6MtPWuKnB4zowSqKqxkKDYP4sPE-uXWeyOHnUnuWIYeoZK9DDg7CrSikPZEjfPJm_BFzb-pMBmPpNhal1bZjewqekh9xDHZF1jf4zx-KBho-LuoiBRL3CYzXwSWE-g=w580-h869-no?authuser=0)
-﻿*Vieille ville d'Yverdon, Vaud*
+
+*Vieille ville d'Yverdon, Vaud*
