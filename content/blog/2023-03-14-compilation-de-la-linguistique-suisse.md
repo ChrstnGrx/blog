@@ -2,9 +2,8 @@
 title: Compilation de la linguistique suisse
 date: Tuesday March 14th, 2023
 ---
-#﻿# Expressions
+## Expressions
 
-#﻿# Mots
+## Mots
 
-#﻿# Anglicismes
-
+## Anglicismes
